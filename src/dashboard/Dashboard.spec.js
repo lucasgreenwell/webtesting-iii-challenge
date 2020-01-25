@@ -1,1 +1,1 @@
-// Test away
+//ensure that the controls and display components rendered
